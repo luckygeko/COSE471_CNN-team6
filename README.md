@@ -4,7 +4,7 @@
 **by CNN**
 
 **1. Download the dataset (AAF)**
-- [AAF Dataset](https://github.com/amineHorseman/AAF-dataset)
+- [AAF Dataset](https://github.com/JingchunCheng/All-Age-Faces-Dataset.git)
 
 **2. Install Requirements**
 ```bash
