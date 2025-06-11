@@ -2,6 +2,7 @@
 
 
 **by CNN**
+
 **1. Download the dataset (AAF)**
 We used the [AAF Dataset](https://github.com/amineHorseman/AAF-dataset) because it provides age-annotated Asian face images suitable for our analysis.
 
@@ -19,7 +20,7 @@ python train.py
 - Saves the best model as best_model.pth
 - Logs metrics per epoch to training_metrics.csv
 
-4. Run Analysis (SHAP + Grad-CAM)
+**4. Run Analysis (SHAP + Grad-CAM)**
 ```bash
 python analysis.py
 ```
@@ -29,7 +30,7 @@ python analysis.py
 - Computes SHAP values to explain feature contribution (e.g., eyes, forehead, mouth)
 - Compares predicted age with true age and interprets appearance (young-looking / old-looking)
 
-5. Project Structure
+**5. Project Structure**
 ```bash
 .
 ├── aaf_age_labels.csv           # CSV with image paths and age labels
