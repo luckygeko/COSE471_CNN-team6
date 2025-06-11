@@ -4,7 +4,7 @@
 **by CNN**
 
 **1. Download the dataset (AAF)**
-We used the [AAF Dataset](https://github.com/amineHorseman/AAF-dataset) because it provides age-annotated Asian face images suitable for our analysis.
+- [AAF Dataset](https://github.com/amineHorseman/AAF-dataset)
 
 **2. Install Requirements**
 ```bash
