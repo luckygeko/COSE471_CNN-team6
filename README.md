@@ -1,5 +1,7 @@
 # COSE471_data-science
 
+**by XGBoost**
+- [COSE471_XGBoost-team6](https://github.com/luckygeko/COSE471_XGBoost-team6.git)
 
 **by CNN**
 
